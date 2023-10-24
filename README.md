@@ -4,10 +4,10 @@ HardWareHouse (Vente de composants informatiques) - Challenge Stack semestriel :
 
 
 # Membres du groupe
-Sami ASSIAKH - GitHub : iSaaMz
+Sami ASSIAKH - GitHub : iSaaMz - https://github.com/iSaaMz
 
-Jay BURY - GitHub : 
+Jay BURY - GitHub : buryj97 - https://github.com/buryj97
 
-Aria AMAN - GitHub : 
+Aria AMAN - GitHub : AriaAman - https://github.com/AriaAman 
 
-Moussa Seydou TRAORE - GitHub : 
+Moussa Seydou TRAORE - GitHub : MoussaST - https://github.com/MoussaST
