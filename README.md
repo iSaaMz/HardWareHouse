@@ -27,4 +27,4 @@ test
 test 2 GPG key
 
 
-Test signature Sami
+Test signature
